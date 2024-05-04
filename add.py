@@ -1,4 +1,4 @@
-a=5
+a=30
 b=2
 print (a)
 print (b)
